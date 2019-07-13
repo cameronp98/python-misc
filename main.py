@@ -1,11 +1,9 @@
-from misc.foo import say_foo
-from misc.bar import say_bar
-from misc.baz import say_baz
+import misc.say
 
 def main():
-    say_foo()
-    say_bar()
-    say_baz()
+    say.foo()
+    say.bar()
+    say.baz()
 
 if __name__ == "__main__":
     main()
