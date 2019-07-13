@@ -1,9 +1,9 @@
-def say_foo():
+def foo():
     print("foo")
 
-def say_bar():
+def bar():
     print("bar")
 
-def say_baz():
+def baz():
     print("baz")
 
