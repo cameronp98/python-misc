@@ -1,9 +1,9 @@
 import misc.say
 
 def main():
-    say.foo()
-    say.bar()
-    say.baz()
+    misc.say.foo()
+    misc.say.bar()
+    misc.say.baz()
 
 if __name__ == "__main__":
     main()
